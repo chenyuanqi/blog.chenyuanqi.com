@@ -5,7 +5,7 @@
   <link href="/chenyuanqi.github.io/atom.xml" rel="self"/>
   
   <link href="http://localhost/"/>
-  <updated>2016-12-17T14:00:43.496Z</updated>
+  <updated>2016-12-17T14:22:16.297Z</updated>
   <id>http://localhost/</id>
   
   <author>
@@ -20,15 +20,15 @@
     <link href="http://localhost/2014/12/26/The-first-article/"/>
     <id>http://localhost/2014/12/26/The-first-article/</id>
     <published>2014-12-26T12:00:00.000Z</published>
-    <updated>2016-12-17T14:00:43.496Z</updated>
+    <updated>2016-12-17T14:22:16.297Z</updated>
     
     <content type="html"><![CDATA[<p>这是传统的 “Hello，world” 开篇，所以咱就打个招呼~</p>
+<a id="more"></a>
 <figure class="highlight php"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line"><span class="class"><span class="keyword">class</span> <span class="title">Hello</span> </span>&#123;</div><div class="line">    <span class="keyword">private</span> <span class="keyword">static</span> $author = <span class="string">'最懒进化'</span>;</div><div class="line">    <span class="keyword">public</span> <span class="keyword">static</span> <span class="function"><span class="keyword">function</span> <span class="title">sayHello</span> <span class="params">()</span></span></div><div class="line">    &#123;</div><div class="line">        $author = <span class="keyword">self</span>::$author;</div><div class="line">        <span class="keyword">return</span> <span class="string">"Hello, I'm &#123;$author&#125; and here is my blog, welcome~"</span>;</div><div class="line">    &#125;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="keyword">echo</span> Hello::sayHello();</div></pre></td></tr></table></figure>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;这是传统的 “Hello，world” 开篇，所以咱就打个招呼~&lt;/p&gt;
-&lt;figure class=&quot;highlight php&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;div class
     
     </summary>
     
