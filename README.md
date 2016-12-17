@@ -1,1 +1,1 @@
-# prepare for blog
+# Here is my personal blog
