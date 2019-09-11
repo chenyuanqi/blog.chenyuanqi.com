@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.chenyuanqi.com/about/index.html</loc>
+    
+    <lastmod>2019-09-11T15:59:57.182Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.chenyuanqi.com/2019/08/18/A-Story-of-crow/</loc>
     
     <lastmod>2019-08-18T09:13:26.088Z</lastmod>
@@ -614,13 +621,6 @@
     <loc>http://blog.chenyuanqi.com/2017/08/20/Do-search-easily/</loc>
     
     <lastmod>2019-05-04T03:22:24.405Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.chenyuanqi.com/about/index.html</loc>
-    
-    <lastmod>2019-05-04T03:22:23.772Z</lastmod>
     
   </url>
   
